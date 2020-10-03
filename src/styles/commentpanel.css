@@ -1,0 +1,9 @@
+.rounded-circle{
+    max-width: 25px;
+}
+
+.card-header{
+        background-color: #337ab7;
+        border-color: #337ab7;
+        color: white;
+}
